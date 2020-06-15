@@ -1,3 +1,5 @@
+![profile](assets/WA head.JPG?s=50)
+
 # Welcome to GitHub Pages
 
 ![cover pic](assets/ID-Ponderosa State Park.JPG)
