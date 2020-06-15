@@ -1,4 +1,4 @@
-<img src="assets/WA head.JPG" width="80px" height="80px"> ## Dave Staudenmaier
+<img src="assets/WA head.JPG" width="80px" height="80px">
 
 ![cover pic](assets/ID-Ponderosa State Park.JPG)
 
