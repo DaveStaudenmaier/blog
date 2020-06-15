@@ -1,4 +1,4 @@
-![profile](assets/WA head.JPG?s=50)
+![profile](assets/WA head.JPG?{:height="50px" width="50px"})
 
 # Welcome to GitHub Pages
 
