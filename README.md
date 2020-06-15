@@ -1,4 +1,4 @@
-<img src="assets/WA head.JPG" width="50px" height="50px">
+<img src="assets/WA head.JPG" width="80px" height="80px">
 
 # Welcome to GitHub Pages
 
