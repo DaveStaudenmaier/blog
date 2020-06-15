@@ -1,4 +1,4 @@
-<img src="assets/WA head.JPG" width="80px" height="80px">
+<img src="assets/WA head.JPG" width="80px" height="80px"> Dave Staudenmaier
 
 # Welcome to GitHub Pages
 
