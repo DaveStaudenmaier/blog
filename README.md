@@ -1,3 +1,5 @@
+![profile](assets/WA head.JPG) Dave Staudenmaier
+
 # Welcome to GitHub Pages
 
 ![cover pic](assets/ID-Ponderosa State Park.JPG)
